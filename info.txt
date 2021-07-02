@@ -1,0 +1,8 @@
+instalar desde la terminal:
+npm init --y   ::crea un package.json
+npm i socket.io  ::instala socket.io para realizar el chat
+npm i -g nodemon ::instala nodemon para correr un servidor
+
+nodemon server.js :: esto es para correr el servidor que ya configure. Si no anda en la terminal, usarlo en la terminal de git
+
+en el script defer lo que hace es usarlo de forma asincrona lo que trae del servidor
